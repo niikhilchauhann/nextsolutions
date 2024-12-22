@@ -18,3 +18,5 @@
 Routes are the various screens of the app that we can navigate through. Routes can be named or can be called upon directly as widgets.
 
 ## B. Coding Questions
+
+1. Solved within app.
